@@ -1,10 +1,10 @@
 # NLP
 Learn resources
-GloVe: Global Vectors for Word Representation: 
-https://nlp.stanford.edu/projects/glove/
-https://nlp.stanford.edu/pubs/glove.pdf
-https://github.com/stanfordnlp/GloVe
-<br>
+GloVe: Global Vectors for Word Representation: <br/>
+https://nlp.stanford.edu/projects/glove/ <br/>
+https://nlp.stanford.edu/pubs/glove.pdf <br/>
+https://github.com/stanfordnlp/GloVe <br/>
+<br/>
 TensorFlow Neural Machine Translation Tutorial:
 https://github.com/tensorflow/nmt
 Word2Vec:
