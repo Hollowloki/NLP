@@ -4,7 +4,7 @@ GloVe: Global Vectors for Word Representation:
 https://nlp.stanford.edu/projects/glove/
 https://nlp.stanford.edu/pubs/glove.pdf
 https://github.com/stanfordnlp/GloVe
-
+<br>
 TensorFlow Neural Machine Translation Tutorial:
 https://github.com/tensorflow/nmt
 Word2Vec:
