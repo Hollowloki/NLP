@@ -28,3 +28,6 @@ https://www.tensorflow.org/text/tutorials/transformer
 
 Attention is all you need paper: <br/>
 https://arxiv.org/pdf/1706.03762.pdf
+
+Examples: <br/>
+https://github.com/JRC1995/Machine-Translation-Transformers
